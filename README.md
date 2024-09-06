@@ -1,7 +1,5 @@
 ## Descubra o Cachorro Perfeito para Você!
 
-**README Amigável para o Seu Projeto de Busca de Raças**
-
 ### O que é esse projeto?
 Imagine um mundo onde você pode encontrar a raça de cachorro ideal com apenas alguns cliques!  Essa é a proposta desse projeto. Com ele, você pode pesquisar por raças de cachorros usando palavras-chave como "brinquedinho", "calmo", "grande" ou até mesmo o nome da raça.
 
